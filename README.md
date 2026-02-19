@@ -1,15 +1,9 @@
 ## Olá, Eu sou Adenilson
 
-<div align="left">
-  <a href="https://github.com/Adenilson666">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adenilson666&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenilson666&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 <div>
   <a href="https://github.com/Adenilson666">
   <img align="center" height="170cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adenilson666&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="170cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ingridmonica&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img align="center" height="170cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adenilson666&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
