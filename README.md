@@ -3,10 +3,9 @@
 <div>
   <a href="https://github.com/Adenilson666">
   <img align="center" height="170cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adenilson666&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
   <img align="center" height="170cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adenilson666&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
-
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
